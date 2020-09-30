@@ -1,6 +1,6 @@
 # Example
 * https://json-schema.org/learn/miscellaneous-examples.html
-
+* info: https://json-schema.org/understanding-json-schema/reference/schema.html#schema
 # JSON Schema
 ```
 {
